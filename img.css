@@ -1,0 +1,18 @@
+*{
+    background-color:lightblue;
+    margin: 10px;
+    padding: 10px;
+}
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;  
+}
+.img1,.img2,.img3{
+   height: 100px;
+   width: 100px;
+
+}
+p{
+    font-size: 20px;
+    padding: 5px;
+}
